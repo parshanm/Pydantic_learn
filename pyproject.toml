@@ -1,0 +1,17 @@
+[project]
+name = "pydantic-learn"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = []
+
+[[tools.uv.index]]
+url = 'https://mirror-pypi.runflare.com/simple'
+default = true
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+    "notebook>=7.5.5",
+    "pydantic>=2.13.3",
+]
