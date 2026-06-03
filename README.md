@@ -29,4 +29,3 @@ In this file we showed how to get and manage extra fields using config dict
 ## Authors
 
 - [@parshanm](https://www.github.com/parshanm)
-
