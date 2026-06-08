@@ -47,6 +47,12 @@ Configdict methods are in Field now welcome to the pydantic upper intermadiate.
 
 This file shows you how to configure fields separatly.
 
+### 09-alias-generators
+
+this file teache you howto use pydantic pre-built alias generators, and even make a generator 
+yourself
+
+
 ## Authors
 
 - [@parshanm](https://www.github.com/parshanm)
