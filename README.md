@@ -53,6 +53,12 @@ this file teache you howto use pydantic pre-built alias generators, and even mak
 yourself
 
 
+## 10-income-and-outcome-aliases
+
+this file teaches you how to set different aliases for a field
+
+Note: we are in advanced section.
+
 ## Authors
 
 - [@parshanm](https://www.github.com/parshanm)
