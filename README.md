@@ -63,6 +63,8 @@ Note: we are in advanced section.
 
 This file teaches you how to customize your output for a speacial field
 
+```Note: context is foreign data that came with dump func and you can use them to specialize data.```
+
 ## Authors
 
 - [@parshanm](https://www.github.com/parshanm)
