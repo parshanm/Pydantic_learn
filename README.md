@@ -71,6 +71,13 @@ This file teaches you how to customize your output for a speacial field
 
 ```Note: context is foreign data that came with dump func and you can use them to specialize data.```
 
+```bash
+   git clone https://github.com/parshanm/Pydantic_learn.git
+   
+# Setup environment with uv:
+   uv add pydantic ipykernel
+```
+
 ## Authors 📝
 
 - [@parshanm](https://www.github.com/parshanm)
