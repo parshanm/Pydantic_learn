@@ -1,6 +1,6 @@
 # Pydantic Full cource
 
-Be with me in this wayt to learn poydantic v2 one of the fastaest way to get & validate data in 2026.🥸
+Be with me in this way to learn poydantic v2 one of the fastaest way to get & validate data in 2026.🥸
 
 
 ```
