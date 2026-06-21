@@ -1,15 +1,18 @@
 # Pydantic Full cource
-<p align="center">
-  <a href="https://github.com/parshanm/Pydantic_learn"><img src="[[https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsequoiacap.com%2Fcompanies%2Fpydantic%2F&ved=0CBYQjRxqFwoTCODLoez6l5UDFQAAAAAdAAAAABAh&opi=89978449)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpydantic.dev%2Fopensource&ved=0CBYQjRxqFwoTCODLoez6l5UDFQAAAAAdAAAAABAF&opi=89978449)" width="300" alt="Pydantic Course"></a>
-</p>
 
 Be with me in this way to learn poydantic v2 one of the fastaest way to get & validate data in 2026.🥸
 
+<p align="center">
+<img src="https://img.shields.io/badge/python-3.11%20%7C%203.12-blue.svg" alt="Python">
+<img src="https://img.shields.io/badge/pydantic-V2-orange.svg" alt="Pydantic">
+<img src="https://img.shields.io/badge/framework-FastAPI-009485.svg" alt="FastAPI">
+<img src="https://img.shields.io/badge/package%20manager-uv-purple.svg" alt="uv">
+</p>
 
 ```
 Note: This cource is specialized to use Pydantic on fastapi
 ``` 
-## Lessons Learned
+## 😎Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
@@ -68,6 +71,6 @@ This file teaches you how to customize your output for a speacial field
 
 ```Note: context is foreign data that came with dump func and you can use them to specialize data.```
 
-## Authors
+## Authors 📝
 
 - [@parshanm](https://www.github.com/parshanm)
