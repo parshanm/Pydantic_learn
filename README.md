@@ -59,18 +59,18 @@ this file teache you howto use pydantic pre-built alias generators, and even mak
 yourself
 
 
-## 10-income-and-outcome-aliases
+### 10-income-and-outcome-aliases
 
 this file teaches you how to set different aliases for a field
 
 Note: we are in advanced section.
 
-## 11-field-serialize
+### 11-field-serialize
 
 This file teaches you how to customize your output for a speacial field
 
 ```Note: context is foreign data that came with dump func and you can use them to specialize data.```
-
+## 🎁 Run Repo
 ```bash
    git clone https://github.com/parshanm/Pydantic_learn.git
    
