@@ -1,6 +1,6 @@
 # Pydantic Full cource
 <p align="center">
-  <a href="https://github.com/parshanm/Pydantic_learn"><img src="[https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpydantic.dev%2Fopensource&ved=0CBYQjRxqFwoTCODLoez6l5UDFQAAAAAdAAAAABAF&opi=89978449)" width="300" alt="Pydantic Course"></a>
+  <a href="https://github.com/parshanm/Pydantic_learn"><img src="[[https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsequoiacap.com%2Fcompanies%2Fpydantic%2F&ved=0CBYQjRxqFwoTCODLoez6l5UDFQAAAAAdAAAAABAh&opi=89978449)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpydantic.dev%2Fopensource&ved=0CBYQjRxqFwoTCODLoez6l5UDFQAAAAAdAAAAABAF&opi=89978449)" width="300" alt="Pydantic Course"></a>
 </p>
 
 Be with me in this way to learn poydantic v2 one of the fastaest way to get & validate data in 2026.🥸
